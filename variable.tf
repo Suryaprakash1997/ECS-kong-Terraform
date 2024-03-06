@@ -56,9 +56,6 @@ variable "db_name" {
 variable "db_username" {
   default = "kong"
 }
-variable "db_password" {
-  default = "LXxR4J1Rsj.7mVm.w-hn2yFKi"
-}
 variable "CreatedBy" {
   default = "Surya"
 }
